@@ -1,0 +1,6 @@
+Format of the input file:
+
+Number of nodes
+Nodes and Heuristics
+src and dest
+edges with cost
